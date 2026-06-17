@@ -976,7 +976,7 @@ After completing this module you should understand:
 
 # 🚀 Next Module
 
-➡️ Array Methods
+➡️ [Array Methods](../07_methods)
 
 In the next section you'll learn:
 

@@ -11,6 +11,7 @@ Master modern JavaScript step by step through theory, examples, exercises, DOM p
 
 | Module | Topics Covered |
 |--------|----------------|
+| [**JavaScript History**](JS_History.md) | For Interviews with Interesting Way |
 | [**01. JavaScript Fundamentals**](01_variables_types_operators) | Variables, Data Types, Type Conversion, Strings, Template Literals, Comparison Operators, Truthy/Falsy, Null, Undefined, BigInt |
 | [**02. Control Flow**](02_control_flow) | if-else, Nested Conditions, Ternary Operator, Logical Operators, Switch Statement |
 | [**03. Loops & Iteration**](03_loops) | while, for, do-while, break, continue, Loop Practice Problems |
@@ -25,7 +26,6 @@ Master modern JavaScript step by step through theory, examples, exercises, DOM p
 | [**12. Asynchronous JavaScript**](12_asynchronous_javascript) | Callbacks, Callback Hell, Promises, XHR, Fetching Data, Event Loop, Async Flow |
 | [**13. Advanced JavaScript Patterns**](13_advanced_patterns) | Advanced Concepts, Real-World Coding Patterns |
 | [**14. Projects**](14_projects) | Todo App, Random Color Generator, Event Demos, Tic-Tac-Toe & More |
-| [**15. JavaScript History**](JS_History.md) | JavaScript History Brief |
 
 ---
 

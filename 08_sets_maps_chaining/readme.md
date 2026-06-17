@@ -518,7 +518,7 @@ After this module:
 
 # 🚀 Next Module
 
-➡️ Object-Oriented JavaScript (OOP)
+➡️ [Object-Oriented JavaScript (OOP)](../09_object_oriented_js)
 
 Next you'll learn:
 

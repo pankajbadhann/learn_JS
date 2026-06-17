@@ -759,7 +759,7 @@ After completing this module, you should understand:
 
 # 🚀 Next Module
 
-➡️ Arrays
+➡️ [Arrays](../04_arrays)
 
 In the next section you'll learn:
 

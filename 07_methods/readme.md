@@ -566,7 +566,7 @@ After this module:
 
 # 🚀 Next Module
 
-➡️ Sets, Maps & Advanced Iteration
+➡️ [Sets, Maps & Advanced Iteration](../08_sets_maps_chaining)
 
 Next you'll learn:
 

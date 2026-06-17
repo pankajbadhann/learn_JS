@@ -826,7 +826,7 @@ After completing this module you should understand:
 
 # 🚀 Next Module
 
-➡️ Objects
+➡️ [Objects](../05_objects)
 
 In the next section you'll learn:
 

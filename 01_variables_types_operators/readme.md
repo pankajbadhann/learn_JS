@@ -691,7 +691,7 @@ After completing this module you should understand:
 
 # 🚀 Next Module
 
-➡️ Control Flow
+➡️ [Control Flow](../02_control_flow)
 
 In the next section you'll learn:
 

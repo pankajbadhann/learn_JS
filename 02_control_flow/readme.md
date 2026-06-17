@@ -640,7 +640,7 @@ After completing this module, you should understand:
 
 # 🚀 Next Module
 
-➡️ Loops
+➡️ [Loops](../03_loops)
 
 Next section mein aap seekhenge:
 
