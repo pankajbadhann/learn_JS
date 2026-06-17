@@ -1,8 +1,12 @@
 # 🚀 Learn JavaScript From Scratch
 
+
 > A Complete Beginner to Advanced JavaScript Course Repository
 
 Master modern JavaScript step by step through theory, examples, exercises, DOM projects, asynchronous programming, OOP, closures, and real-world projects.
+
+[**01**](01_variables_types_operators) "  "  [**02**](02_control_flow) "  "  [**03**](03_loops) "  "  [**04**](04_arrays) "  "  [**05**](05_objects) "  "  [**06**](06_functions) "  "  [**07**](07_methods) "  "  [**08**](08_sets_maps_chaining) "  "  [**09**](09_object_oriented_js) "  "  [**10**](10_javascript_intervals) "  "  [**11**](11_dom_manipulation) "  "  [**12**](12_asynchronous_javascript) "  "  [**13**](13_advanced_patterns) "  "  [**14**](14_projects) "  "  [**15**](JS_History.md)
+
 
 ---
 ## 📚 Course Structure

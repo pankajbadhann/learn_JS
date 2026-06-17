@@ -36,20 +36,20 @@ const grandparent = document.querySelector(".grandparent");
 
 ///// not capture
 
-// child.addEventListener("click", () => {
-//   console.log("bubble child");
-// });
-// parent.addEventListener("click", () => {
-//   console.log("bubble parent");
-// });
-// grandparent.addEventListener("click", () => {
-//   console.log("bubble grandparent");
-// });
-// document.body.addEventListener("click", () => {
-//   console.log("bubble document.body");
-// });
+child.addEventListener("click", () => {
+  console.log("bubble child");
+});
+parent.addEventListener("click", () => {
+  console.log("bubble parent");
+});
+grandparent.addEventListener("click", () => {
+  console.log("bubble grandparent");
+});
+document.body.addEventListener("click", () => {
+  console.log("bubble document.body");
+});
 
 // event delegation
-// grandparent.addEventListener("click", (e) => {
-//   console.log(e.target);
-// });
+grandparent.addEventListener("click", (e) => {
+  console.log(e.target);
+});

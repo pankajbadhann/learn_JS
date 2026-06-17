@@ -30,7 +30,7 @@ button{
     margin-top: 1rem;
     border: none;
     outline: none;
-    transition: background 0.4s;
+    /* transition: background 0.4s; */
 }
 button:hover{
     background: rgb(214, 214, 214);
