@@ -25,3 +25,7 @@
 22. Ecma has Community that's TC39 (Technical Community 39)
 23. Members of TC39 decided what feature will came or not & Decided annual release of JavaScript in Every Year.
 24. Releases --> ES6: 2015,  ES7: 2016,  ES8: 2017
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/pankajbadhann/learn_JS)
