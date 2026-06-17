@@ -7,15 +7,15 @@ if(true){
     var firstName = "Pankaj";
     console.log(firstName);
 }
-
 console.log(firstName);
+
 
 function myApp(){
     if(true){
         var lastName = "Badhan";
         console.log(lastName);
     }
-
+    
     if(true){
         console.log(lastName);
     }
